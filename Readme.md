@@ -1,6 +1,6 @@
 #  CER Electricity Subsidy Prediction
 
-** This folder contains R files that are used to obtain final output. **
+*** This folder contains R files that are used to obtain final output.
 
 ### Description of mentioned code files :
 
@@ -31,3 +31,21 @@
 
 - newdf.csv 
 	* This is an intermediate dataframe produced by feature_extraction.R for further data processing.
+	
+	
+### Description of mentioned folders :
+
+*** This Directory contains all the figures that has been produced for Data Visualization.
+
+- Exploratory Data Analysis :
+	* Contains figures which helped us to capture the trends and distribution of the dataset.
+
+- Cluster1 Analysis: 
+	* Contains figures produced by applying kmeans algorithm on the dataset,which was predicted by the 					  Support Vector Machine(svm). 
+
+- Cluster2 Analysis: 
+	* Contains figures produced by applying kmeans algorithm on the dataset,which was predicted by the 					  Random Forest.
+
+- Elbow Method: 
+	* This figure concludes the appropriate k value for kmeans algorithm.
+
