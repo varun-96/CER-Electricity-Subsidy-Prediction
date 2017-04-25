@@ -1,8 +1,6 @@
 #  CER Electricity Subsidy Prediction
 
-` This folder contains R files that are used to obtain final output. `
-
-### Description of mentioned code files :
+## Description of above files :
 
 - main.R 
 	* The main function of the entire code. Calls the different function and displays the final output.
@@ -33,9 +31,7 @@
 	* This is an intermediate dataframe produced by feature_extraction.R for further data processing.
 	
 	
-### Description of mentioned folders :
-
-` This Directory contains all the figures that has been produced for Data Visualization. `
+## Description of mentioned folders :
 
 - Exploratory Data Analysis :
 	* Contains figures which helped us to capture the trends and distribution of the dataset.
