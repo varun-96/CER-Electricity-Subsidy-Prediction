@@ -1,6 +1,6 @@
 #  CER Electricity Subsidy Prediction
 
-*** This folder contains R files that are used to obtain final output.
+` This folder contains R files that are used to obtain final output. `
 
 ### Description of mentioned code files :
 
@@ -35,7 +35,7 @@
 	
 ### Description of mentioned folders :
 
-*** This Directory contains all the figures that has been produced for Data Visualization.
+` This Directory contains all the figures that has been produced for Data Visualization. `
 
 - Exploratory Data Analysis :
 	* Contains figures which helped us to capture the trends and distribution of the dataset.
