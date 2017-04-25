@@ -1,8 +1,8 @@
-###  CER Electricity Subsidy Prediction
+#  CER Electricity Subsidy Prediction
 
-This folder contains R files that are used to obtain final output.
+** This folder contains R files that are used to obtain final output. **
 
-Description of mentioned code files :
+### Description of mentioned code files :
 
 -> main.R 
 	The main function of the entire code. Calls the different function and displays the final output.
