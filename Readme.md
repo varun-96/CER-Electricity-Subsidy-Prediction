@@ -1,5 +1,7 @@
 #  CER Electricity Subsidy Prediction
 
+> Data used for this project is Smart Meter Electricity Trial data.It consists of 6 zipped files of 2.5GB size.
+
 ## Description of above files :
 
 - main.R 
